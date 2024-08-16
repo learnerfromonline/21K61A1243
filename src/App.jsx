@@ -6,7 +6,9 @@ import React, { useState, useEffect } from 'react';
 const App = () => {
   return (
     <>
-    
+    <center>
+    <h1>Welcome To Affordmed</h1>
+    </center>
     <Router>
       <Container>
         <Routes>
